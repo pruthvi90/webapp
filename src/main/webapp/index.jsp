@@ -8,7 +8,7 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to</h1>
-      <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
+      <img src="https://1.bp.blogspot.com/-FJN5mv7udjk/WdYQhsxOOUI/AAAAAAAAAU0/0a1mgN6N0-c4sgbuLHYOyU9yK0tbhpJeACLcBGAs/s728-e100/apache-tomcat-rce-exploit.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h3 class="text-center">Welcome to CI CD Pipeline project using the following tools: Coding using Ecplise -> Source code repository using GIT -> Code Build using Maven -> Code Test using JUnit -> Integrations using Jenkins -> Deployement using Apache Tomcat.
 </h3>
