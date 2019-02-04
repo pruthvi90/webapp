@@ -11,7 +11,7 @@
       <img src="https://1.bp.blogspot.com/-FJN5mv7udjk/WdYQhsxOOUI/AAAAAAAAAU0/0a1mgN6N0-c4sgbuLHYOyU9yK0tbhpJeACLcBGAs/s728-e100/apache-tomcat-rce-exploit.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       
-      <h1 class="text-center">Now you are with HYD DevOps POC Team</h1>
+      <h2 class="text-center">Now you are with HYD DevOps POC Team</h2>
       <h3 class="text-center">Welcome to CI CD Pipeline project using the following tools: Coding using Ecplise -> Source code repository using GIT -> Code Build using Maven -> Code Test using JUnit -> Integrations using Jenkins -> Deployment using Apache Tomcat.
 </h3>
   </div>
